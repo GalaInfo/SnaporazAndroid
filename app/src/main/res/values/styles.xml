@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppThemeLogo" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#b70f0a</item>
+        <item name="colorPrimaryDark">#b70f0a</item>
+        <item name="colorAccent">#b70f0a</item>
+    </style>
+
+    <style name="MyProgressBar" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:progressTint">#b70f0a</item>
+        <item name="android:progressBackgroundTint">@android:color/transparent</item>
+    </style>
+
+
+</resources>
